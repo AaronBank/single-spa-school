@@ -864,8 +864,8 @@ mime@>=2.0.3:
   resolved "http://npm-registry.corp.daling.com/mime/-/mime-2.4.4.tgz#bd7b91135fc6b01cde3e9bae33d659b63d8857e5"
 
 minimist@^1.2.5:
-  version "1.2.5"
-  resolved "http://npm-registry.corp.daling.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
 
 ms@^2.1.1:
   version "2.1.2"
